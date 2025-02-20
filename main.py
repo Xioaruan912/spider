@@ -55,8 +55,8 @@ if __name__ == '__main__':
 
 
 
-# username = "18960828016"
-# password = "214253551.lxz"
+# username = "x"
+# password = "x"
 # search_url = "baidu.com"
 #
 # if __name__ == '__main__':
